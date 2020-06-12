@@ -24,6 +24,18 @@ console.log(&amp;#39;eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
     </item>
     
     <item>
+      <title>`Code` Poetry</title>
+      <link>/resources/code-poetry/</link>
+      <pubDate>Tue, 13 Feb 2018 13:56:12 -0500</pubDate>
+      
+      <guid>/resources/code-poetry/</guid>
+      <description>Pseudo code poem.
+if (this === that): try write_new_poem() except not_a_poet as e: return e e cummings?
+console.log(&amp;#39;eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee&amp;#39;) An embedded gist using shortcode:
+ </description>
+    </item>
+    
+    <item>
       <title>A Poem</title>
       <link>/posts/a-poem/</link>
       <pubDate>Thu, 01 Feb 2018 12:35:11 -0500</pubDate>

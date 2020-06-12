@@ -6,19 +6,10 @@
     <description>Recent content on NYU Stats Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Mar 2018 20:18:53 -0500</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>test post</title>
-      <link>/post/test-post/</link>
-      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/test-post/</guid>
-      <description>hello world</description>
-    </item>
     
     <item>
       <title>Video post</title>
@@ -62,14 +53,25 @@ console.log(&amp;#39;eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
     </item>
     
     <item>
+      <title>`Code` Poetry</title>
+      <link>/resources/code-poetry/</link>
+      <pubDate>Tue, 13 Feb 2018 13:56:12 -0500</pubDate>
+      
+      <guid>/resources/code-poetry/</guid>
+      <description>Pseudo code poem.
+if (this === that): try write_new_poem() except not_a_poet as e: return e e cummings?
+console.log(&amp;#39;eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee&amp;#39;) An embedded gist using shortcode:
+ </description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>/about/</link>
       <pubDate>Tue, 13 Feb 2018 13:42:49 -0500</pubDate>
       
       <guid>/about/</guid>
-      <description>Hello, I&amp;rsquo;m Sam. I&amp;rsquo;m a theme for Hugo. I&amp;rsquo;m an extremely customizable, content-focused theme that lets you showcase your work your way. I&amp;rsquo;m open source on GitHub.
-I have slick minimalist templates for list pages (such as a list of blog posts) and single pages (a page to read one blog post). You can use tags on your content, and view content by tags.
-I also have a simple responsive gallery built with CSS grid.</description>
+      <description>Hello, this is the home of the New York Univeristy Statistics Club. We&amp;rsquo;re part the A3SR program and PRIISM. Feel free to reach out @ stats.club@nyu.edu.
+2020 Stats Club Leadership      </description>
     </item>
     
     <item>
@@ -114,6 +116,17 @@ And thus commands the vision of the night.
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
       <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>/resource/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/resource/2015-07-23-r-rmarkdown/</guid>
       <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>

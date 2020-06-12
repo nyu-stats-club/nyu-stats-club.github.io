@@ -3,22 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-06-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2020-06-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/test-post/</loc>
-    <lastmod>2020-06-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/blog/</loc>
+    <lastmod>2018-03-16T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
     <lastmod>2018-03-16T20:18:53-05:00</lastmod>
   </url>
   
@@ -58,6 +48,11 @@
   </url>
   
   <url>
+    <loc>/resources/code-poetry/</loc>
+    <lastmod>2018-02-13T13:56:12-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/poem/</loc>
     <lastmod>2018-02-13T13:56:12-05:00</lastmod>
   </url>
@@ -69,6 +64,11 @@
   
   <url>
     <loc>/posts/</loc>
+    <lastmod>2018-02-13T12:21:57-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/resources/</loc>
     <lastmod>2018-02-13T12:21:57-05:00</lastmod>
   </url>
   
@@ -103,7 +103,17 @@
   </url>
   
   <url>
+    <loc>/resource/2015-07-23-r-rmarkdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/plot/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
@@ -123,11 +133,12 @@
   </url>
   
   <url>
-    <loc>/gallery/</loc>
+    <loc>/resource/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/</loc>
+    <loc>/calendar/</loc>
   </url>
   
 </urlset>
