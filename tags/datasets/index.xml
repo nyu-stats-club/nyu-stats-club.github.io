@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>datasets on NYU Stats Club</title>
+    <link>/tags/datasets/</link>
+    <description>Recent content in datasets on NYU Stats Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Jun 2020 15:33:36 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/datasets/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Great, but messy datasets</title>
+      <link>/resources/great-messy-datasets/</link>
+      <pubDate>Sat, 13 Jun 2020 15:33:36 -0400</pubDate>
+      
+      <guid>/resources/great-messy-datasets/</guid>
+      <description>NYC data </description>
+    </item>
+    
+    <item>
+      <title>Survey datasets</title>
+      <link>/resources/survey-datasets/</link>
+      <pubDate>Sat, 13 Jun 2020 15:30:46 -0400</pubDate>
+      
+      <guid>/resources/survey-datasets/</guid>
+      <description>American Time Use Survey Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Clean datasets</title>
+      <link>/resources/clean-datasets/</link>
+      <pubDate>Sat, 13 Jun 2020 15:24:35 -0400</pubDate>
+      
+      <guid>/resources/clean-datasets/</guid>
+      <description>Great clean datasets
+Small, clean datasets Bigger datasets (&amp;gt; 1,000 rows) Big data (&amp;gt;100,000 rows) Mostly categorical data Surveys Places to search for additional datases  kaggle Google Dataset Search NYC OpenData  </description>
+    </item>
+    
+  </channel>
+</rss>
