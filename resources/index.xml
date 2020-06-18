@@ -12,13 +12,32 @@
     
     
     <item>
+      <title>Computing resources</title>
+      <link>/resources/computing/</link>
+      <pubDate>Thu, 18 Jun 2020 18:54:35 -0400</pubDate>
+      
+      <guid>/resources/computing/</guid>
+      <description>DataCamp Browser-based courses with an inteactive console for learning data science and analytics. If you take Marc&amp;rsquo;s Statistical Computing class, you&amp;rsquo;ll get free access.
+datacamp.com
+RDocumentation The best web-based source for R libraries and function documentation.
+rdocumentation.org
+R-bloggers Blog posts on almost any R-related topic.
+r-bloggers.com
+Stack Overflow and StackExcahnge These are self-evident. Just google your computing question and Stack Overflow or StackExchange are bound to be in the top five results.</description>
+    </item>
+    
+    <item>
       <title>Statistical methods resources</title>
       <link>/resources/stat-sites/</link>
       <pubDate>Sun, 14 Jun 2020 11:12:48 -0400</pubDate>
       
       <guid>/resources/stat-sites/</guid>
       <description>UCLA statistics UCLA maintains pages explaining almost every statstical test and method. It contains examples, code, and interpretations.
-stats.idre.ucla.edu</description>
+stats.idre.ucla.edu
+StatQuest Josh Starmer&amp;rsquo;s YouTube channel does a great job breaking down major statistical methodologies in a visual format. It&amp;rsquo;s also commically whimsical.
+youtube.com/&amp;hellip;/StatQuest
+Richard McElreath&amp;rsquo;s Bayesian course Want to learn Bayesian methods with intuitive explanations? Richard McElreath&amp;rsquo;s recordings of his lectures are free on YouTube.
+youtube.com/&amp;hellip;/RichardMcElreath</description>
     </item>
     
     <item>
@@ -52,8 +71,9 @@ TLC trip record data</description>
       <pubDate>Sat, 13 Jun 2020 15:30:46 -0400</pubDate>
       
       <guid>/resources/survey-datasets/</guid>
-      <description>American Time Use Survey Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <description>American Community Survey Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+ACS
+American Time Use Survey Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
     </item>
     
     <item>

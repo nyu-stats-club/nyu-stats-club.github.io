@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on NYU Stats Club</title>
+    <link>/tags/r/</link>
+    <description>Recent content in R on NYU Stats Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Jun 2020 18:54:35 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Computing resources</title>
+      <link>/resources/computing/</link>
+      <pubDate>Thu, 18 Jun 2020 18:54:35 -0400</pubDate>
+      
+      <guid>/resources/computing/</guid>
+      <description>DataCamp Browser-based courses with an inteactive console for learning data science and analytics. If you take Marc&amp;rsquo;s Statistical Computing class, you&amp;rsquo;ll get free access.
+datacamp.com
+RDocumentation The best web-based source for R libraries and function documentation.
+rdocumentation.org
+R-bloggers Blog posts on almost any R-related topic.
+r-bloggers.com
+Stack Overflow and StackExcahnge These are self-evident. Just google your computing question and Stack Overflow or StackExchange are bound to be in the top five results.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,22 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/resources/computing/</loc>
+    <lastmod>2020-06-18T18:54:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-06-18T18:54:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/r/</loc>
+    <lastmod>2020-06-18T18:54:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-06-18T18:54:35-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/datasets/</loc>
     <lastmod>2020-06-14T11:12:48-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-06-14T11:12:48-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/resources/stat-sites/</loc>
-    <lastmod>2020-06-14T11:12:48-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-06-14T11:12:48-04:00</lastmod>
   </url>
   
