@@ -34,9 +34,9 @@ youtube.com/&amp;hellip;/RichardMcElreath
       <guid>/resources/data-sources/</guid>
       <description>Places to search for additional datasetss kaggle Crowdsourced datasets that are a staple of the data science community. These datasets tend to be cleaner and larger.
 kaggle
-Google Dataset Search A dataset search engine from Google. These datasets are well documented via a standard metadata schema.
+ Google Dataset Search A dataset search engine from Google. These datasets are well documented via a standard metadata schema.
 Google Dataset Search
-NYC OpenData Free, public data from NYC government agencies. Topics range from policing to education to 311 calls. Want to find out how many squirrels are in Central Park or how many people have been tested for Covid-19 in the city?</description>
+ NYC OpenData Free, public data from NYC government agencies. Topics range from policing to education to 311 calls. Want to find out how many squirrels are in Central Park or how many people have been tested for Covid-19 in the city?</description>
     </item>
     
     <item>
@@ -47,8 +47,9 @@ NYC OpenData Free, public data from NYC government agencies. Topics range from p
       <guid>/resources/great-messy-datasets/</guid>
       <description>NYC subway turnstile data A large, messy dataset containing every entry and exit to the NYC subway system.
 Turnstile data
-NYC cab data Another huge dataset from the city. Contains every yellow and green cab ride. See blogger Todd Schneider&amp;rsquo;s post analyzing this dataset for ideas.
-TLC trip record data</description>
+ NYC cab data Another huge dataset from the city. Contains every yellow and green cab ride. See blogger Todd Schneider&amp;rsquo;s post analyzing this dataset for ideas.
+TLC trip record data
+ </description>
     </item>
     
     <item>
@@ -59,7 +60,7 @@ TLC trip record data</description>
       <guid>/resources/survey-datasets/</guid>
       <description>American Community Survey Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 ACS
-American Time Use Survey Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
+ American Time Use Survey Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
     </item>
     
     <item>
