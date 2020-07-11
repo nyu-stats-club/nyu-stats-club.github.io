@@ -23,7 +23,7 @@ datacamp.com
 rdocumentation.org
  R-bloggers Blog posts on almost any R-related topic.
 r-bloggers.com
-Stack Overflow and StackExcahnge These are self-evident. Just google your computing question and Stack Overflow or StackExchange are bound to be in the top five results.</description>
+ Stack Overflow and StackExcahnge These are self-evident. Just google your computing question and Stack Overflow or StackExchange are bound to be in the top five results.</description>
     </item>
     
     <item>
@@ -38,7 +38,7 @@ stats.idre.ucla.edu
 youtube.com/&amp;hellip;/StatQuest
  Richard McElreath&amp;rsquo;s Bayesian course Want to learn Bayesian methods with intuitive explanations? Richard McElreath&amp;rsquo;s recordings of his lectures are free on YouTube.
 youtube.com/&amp;hellip;/RichardMcElreath
- </description>
+ UC Business Analytics R Programming Guide Short, simple explanations of statistical methods and working with R.</description>
     </item>
     
     <item>
@@ -55,37 +55,14 @@ Google Dataset Search
     </item>
     
     <item>
-      <title>Messy datasets</title>
-      <link>/resources/great-messy-datasets/</link>
-      <pubDate>Sat, 13 Jun 2020 15:33:36 -0400</pubDate>
+      <title>Datasets</title>
+      <link>/resources/datasets/</link>
+      <pubDate>Tue, 14 Apr 2020 11:12:48 -0400</pubDate>
       
-      <guid>/resources/great-messy-datasets/</guid>
-      <description>NYC subway turnstile data A large, messy dataset containing every entry and exit to the NYC subway system.
-Turnstile data
- NYC cab data Another huge dataset from the city. Contains every yellow and green cab ride. See blogger Todd Schneider&amp;rsquo;s post analyzing this dataset for ideas.
-TLC trip record data
- </description>
-    </item>
-    
-    <item>
-      <title>Survey datasets</title>
-      <link>/resources/survey-datasets/</link>
-      <pubDate>Sat, 13 Jun 2020 15:30:46 -0400</pubDate>
-      
-      <guid>/resources/survey-datasets/</guid>
-      <description>American Community Survey Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-ACS
- American Time Use Survey Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
-    </item>
-    
-    <item>
-      <title>Clean datasets</title>
-      <link>/resources/clean-datasets/</link>
-      <pubDate>Sat, 13 Jun 2020 15:24:35 -0400</pubDate>
-      
-      <guid>/resources/clean-datasets/</guid>
-      <description>Great clean datasets
-Small, clean datasets Bigger datasets (&amp;gt; 1,000 rows) Big data (&amp;gt;100,000 rows) Mostly categorical data </description>
+      <guid>/resources/datasets/</guid>
+      <description>Neat and approachable datasets Iris This dataset is the go to dataset for pedagogical use. It&amp;rsquo;s not particularly interesting but you should become familiar with it as many lessons depend on it.
+The dataset is preloaded in R
+&amp;gt; head(iris) Sepal.Length Sepal.Width Petal.Length Petal.Width Species 1 5.1 3.5 1.4 0.2 setosa 2 4.9 3.0 1.4 0.2 setosa 3 4.7 3.2 1.3 0.2 setosa 4 4.6 3.1 1.5 0.2 setosa 5 5.</description>
     </item>
     
     <item>
