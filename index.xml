@@ -6,10 +6,19 @@
     <description>Recent content on NYU Stats Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jun 2020 18:54:35 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2020 15:43:03 -0400</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Git tutorial</title>
+      <link>/resources/git-tutorial/</link>
+      <pubDate>Mon, 07 Sep 2020 15:43:03 -0400</pubDate>
+      
+      <guid>/resources/git-tutorial/</guid>
+      <description>Setting up git and Github  Installing git Set up GitHub  Workshop  Draft workshop slides  </description>
+    </item>
     
     <item>
       <title>Computing resources</title>

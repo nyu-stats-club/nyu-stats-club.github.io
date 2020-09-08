@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>github on NYU Stats Club</title>
+    <link>/tags/github/</link>
+    <description>Recent content in github on NYU Stats Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Sep 2020 15:43:03 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Git tutorial</title>
+      <link>/resources/git-tutorial/</link>
+      <pubDate>Mon, 07 Sep 2020 15:43:03 -0400</pubDate>
+      
+      <guid>/resources/git-tutorial/</guid>
+      <description>Setting up git and Github  Installing git Set up GitHub  Workshop  Draft workshop slides  </description>
+    </item>
+    
+  </channel>
+</rss>
