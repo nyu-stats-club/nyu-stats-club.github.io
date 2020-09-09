@@ -4,7 +4,7 @@
     <title>Git and GitHub</title>
     <meta charset="utf-8" />
     <meta name="author" content="Joe Marlo + Bilal Waheed" />
-    <meta name="date" content="2020-09-08" />
+    <meta name="date" content="2020-09-09" />
     <link href="libs/remark-css-0.0.1/default.css" rel="stylesheet" />
     <link href="libs/remark-css-0.0.1/metropolis.css" rel="stylesheet" />
     <link href="libs/remark-css-0.0.1/metropolis-fonts.css" rel="stylesheet" />
@@ -16,7 +16,7 @@ class: center, middle, inverse, title-slide
 # Git and GitHub
 ### Joe Marlo + Bilal Waheed
 ### NYU Stats Club
-### 2020-09-08
+### 2020-09-09
 
 ---
 
@@ -38,7 +38,7 @@ Git is a "free and open source distributed **version control system**" and mostl
 
 .pull-right[
 &lt;img src="images/github_logo.png" style="width: 100%" /&gt;  &lt;br&gt;&lt;br&gt;
-GitHub is a website that **hosts Git repositorys** (i.e. your code). You upload your code to GitHub and allows you to colloborate with others. GitHub is private company - owned by Microsoft.
+GitHub is a website that **hosts Git repositories** (i.e. your code). You upload your code to GitHub and allows you to colloborate with others. GitHub is private company - owned by Microsoft.
 ]
 
 ---
@@ -95,12 +95,12 @@ Because almost everyone else does.
 
 &lt;/p&gt;
 ---
-# The workflow
+# Git basics and workflow
 
 &lt;br&gt;  
 &lt;h2&gt;
 - Git structure  &lt;br&gt;
-- The three stages of git  &lt;br&gt;
+- The three states of git  &lt;br&gt;
 - Doing everything through Rstudio Projects
 &lt;/h2&gt;
 
@@ -136,28 +136,28 @@ class: center, inverse
 &lt;/p&gt;
 
 ---
-# Three stages of git
+# The three states of git
 
 &lt;p align="center"&gt;
 &lt;img src="images/git_stages_1.png" style="width: 80%"/&gt;
 &lt;/p&gt;
 
 ---
-# Three stages of git
+# The three states of git
 
 &lt;p align="center"&gt;
 &lt;img src="images/git_stages_2.png" style="width: 80%"/&gt;
 &lt;/p&gt;
 
 ---
-# Three stages of git
+# The three states of git
 
 &lt;p align="center"&gt;
 &lt;img src="images/git_stages_3.png" style="width: 80%"/&gt;
 &lt;/p&gt;
 
 ---
-# Plus one stage of GitHub
+# Plus one states of GitHub
 
 &lt;p align="center"&gt;
 &lt;img src="images/git_stages_4.png" style="width: 90%"/&gt;
@@ -170,7 +170,7 @@ class: center, inverse
 &lt;h3&gt;
 - 99% of your Git tasks can likely be accomplished through Rstudio using &lt;a href="https://support.rstudio.com/hc/en-us/articles/200526207-Using-Projects"&gt;Rstudio Projects&lt;/a&gt; 
 &lt;br&gt; &lt;br&gt; 
-- Rstudio provides a UI so the previous terminal commands are not neccessary  
+- Rstudio provides a UI so the previous terminal commands are not necessary  
 &lt;br&gt; &lt;br&gt; 
 - The full workflow can be accomplished via the following 
 &lt;/h3&gt;
@@ -210,14 +210,13 @@ class: center, inverse
 - Always pull before committing your files &lt;br&gt;
 - You can put **anything** in your git repo &lt;br&gt;
 - GitHub will reject files larger than 100mb -&gt; if you commit a large file and then remove it, GitHub will still reject it b/c the file is still in the repo history &lt;br&gt;
-- README is a text file that describes your repository/project. This is a great place to place a description of the project, documentation, and attributions &lt;br&gt;
-- Cloning and forking 
+- README is a text file that describes your repository/project. This is a great place for a description of the project, documentation, and attributions &lt;br&gt;
 &lt;/h3&gt;
 
 ---
 # .gitignore
 
-- By default, `git add -A` commits adds everything in the repo
+- By default, `git add -A` adds everything in your directory to the repo
 - Sometimes you don't want to track everything. E.g. uploading a 1gb csv to GitHub
 - .gitignore is a text file in the repo's parent directory. Any items added to it are excluded from the repo.
 
@@ -233,7 +232,7 @@ class: center, inverse
 &lt;/p&gt;
 
 - regex can be used to exclude mulitple files
-- e.g. `Inputs/*.tsv` excludes all tsv files in the `Inputs` subfolder
+- e.g. `Inputs/*.tsv` excludes all tsv files in the `Inputs` sub-folder
 ]
 
 ---
@@ -254,6 +253,8 @@ We didn't talk about:
 - `git reset`
 - `get log`
 - `git remote`
+- `git clone`
+- `fork`
 
 So here are some great additional resources: 
 - [NYU Data Services git guide](https://nyu-dataservices.github.io/Intro-Git-GitHub/#/)

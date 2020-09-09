@@ -31,7 +31,7 @@ Git is a "free and open source distributed **version control system**" and mostl
 
 .pull-right[
 <img src="images/github_logo.png" style="width: 100%" />  <br><br>
-GitHub is a website that **hosts Git repositorys** (i.e. your code). You upload your code to GitHub and allows you to colloborate with others. GitHub is private company - owned by Microsoft.
+GitHub is a website that **hosts Git repositories** (i.e. your code). You upload your code to GitHub and allows you to colloborate with others. GitHub is private company - owned by Microsoft.
 ]
 
 ---
@@ -88,12 +88,12 @@ Because almost everyone else does.
 
 </p>
 ---
-# The workflow
+# Git basics and workflow
 
 <br>  
 <h2>
 - Git structure  <br>
-- The three stages of git  <br>
+- The three states of git  <br>
 - Doing everything through Rstudio Projects
 </h2>
 
@@ -129,28 +129,28 @@ class: center, inverse
 </p>
 
 ---
-# Three stages of git
+# The three states of git
 
 <p align="center">
 <img src="images/git_stages_1.png" style="width: 80%"/>
 </p>
 
 ---
-# Three stages of git
+# The three states of git
 
 <p align="center">
 <img src="images/git_stages_2.png" style="width: 80%"/>
 </p>
 
 ---
-# Three stages of git
+# The three states of git
 
 <p align="center">
 <img src="images/git_stages_3.png" style="width: 80%"/>
 </p>
 
 ---
-# Plus one stage of GitHub
+# Plus one states of GitHub
 
 <p align="center">
 <img src="images/git_stages_4.png" style="width: 90%"/>
@@ -163,7 +163,7 @@ class: center, inverse
 <h3>
 - 99% of your Git tasks can likely be accomplished through Rstudio using <a href="https://support.rstudio.com/hc/en-us/articles/200526207-Using-Projects">Rstudio Projects</a> 
 <br> <br> 
-- Rstudio provides a UI so the previous terminal commands are not neccessary  
+- Rstudio provides a UI so the previous terminal commands are not necessary  
 <br> <br> 
 - The full workflow can be accomplished via the following 
 </h3>
@@ -203,14 +203,13 @@ class: center, inverse
 - Always pull before committing your files <br>
 - You can put **anything** in your git repo <br>
 - GitHub will reject files larger than 100mb -> if you commit a large file and then remove it, GitHub will still reject it b/c the file is still in the repo history <br>
-- README is a text file that describes your repository/project. This is a great place to place a description of the project, documentation, and attributions <br>
-- Cloning and forking 
+- README is a text file that describes your repository/project. This is a great place for a description of the project, documentation, and attributions <br>
 </h3>
 
 ---
 # .gitignore
 
-- By default, `git add -A` commits adds everything in the repo
+- By default, `git add -A` adds everything in your directory to the repo
 - Sometimes you don't want to track everything. E.g. uploading a 1gb csv to GitHub
 - .gitignore is a text file in the repo's parent directory. Any items added to it are excluded from the repo.
 
@@ -226,7 +225,7 @@ class: center, inverse
 </p>
 
 - regex can be used to exclude mulitple files
-- e.g. `Inputs/*.tsv` excludes all tsv files in the `Inputs` subfolder
+- e.g. `Inputs/*.tsv` excludes all tsv files in the `Inputs` sub-folder
 ]
 
 ---
@@ -247,6 +246,8 @@ We didn't talk about:
 - `git reset`
 - `get log`
 - `git remote`
+- `git clone`
+- `fork`
 
 So here are some great additional resources: 
 - [NYU Data Services git guide](https://nyu-dataservices.github.io/Intro-Git-GitHub/#/)
