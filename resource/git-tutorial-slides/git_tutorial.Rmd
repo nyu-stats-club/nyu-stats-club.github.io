@@ -200,7 +200,7 @@ class: center, inverse
 
 <br>
 <h3>
-- Always pull before committing your files <br>
+- Always pull before pushing <br>
 - You can put **anything** in your git repo <br>
 - GitHub will reject files larger than 100mb -> if you commit a large file and then remove it, GitHub will still reject it b/c the file is still in the repo history <br>
 - README is a text file that describes your repository/project. This is a great place for a description of the project, documentation, and attributions <br>
