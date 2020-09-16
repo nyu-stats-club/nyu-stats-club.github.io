@@ -91,23 +91,19 @@ Because almost everyone else does.
 # Git basics and workflow
 
 <br>  
-<h2>
-- Git structure  <br>
-- The three states of git  <br>
-- Doing everything through Rstudio Projects
-</h2>
+- ## Git structure  <br>
+- ## The three states of git  <br>
+- ## Doing everything through Rstudio Projects
 
 ---
 # Git structure basics
 
-<h3>
-- Git maintains a tree that tracks changes over time via branches <br>
-- Each node is a snapshot in time of the repository (i.e. all the files in your project) <br>
-- Each branch represents a different offshoot of the repository  
-  -  which can be later merged to the master branch <br>
-</h3>
 
-<br>
+- ### Git maintains a tree that tracks changes over time via branches 
+- ### Each node is a snapshot in time of the repository (i.e. all the files in your project) 
+- ### Each branch represents a different offshoot of the repository — which can be later merged to the master branch <br>
+
+
 <p align="center">
 <img src="images/branch.png" style="width: 60%"/>
 </p>
@@ -150,23 +146,21 @@ class: center, inverse
 </p>
 
 ---
-# Plus one states of GitHub
+# Plus one state of GitHub
 
 <p align="center">
 <img src="images/git_stages_4.png" style="width: 90%"/>
 </p>
 
 ---
-# Git + GitHub + Rstudio Projects: your magical trio 
+# Git + GitHub + Rstudio Projects:  your magical trio 
 
 <br>
-<h3>
-- 99% of your Git tasks can likely be accomplished through Rstudio using <a href="https://support.rstudio.com/hc/en-us/articles/200526207-Using-Projects">Rstudio Projects</a> 
-<br> <br> 
-- Rstudio provides a UI so the previous terminal commands are not necessary  
-<br> <br> 
-- The full workflow can be accomplished via the following 
-</h3>
+
+- ### 99% of your Git tasks can likely be accomplished through Rstudio using <a href="https://support.rstudio.com/hc/en-us/articles/200526207-Using-Projects">Rstudio Projects</a> 
+- ### Rstudio provides a UI so the previous terminal commands are not necessary  
+- ### The full workflow can be accomplished via the following 
+
 
 ---
 # Git + GitHub + Rstudio Projects: your magical trio 
@@ -199,12 +193,11 @@ class: center, inverse
 # Other good things to know 
 
 <br>
-<h3>
-- Always pull before pushing <br>
-- You can put **anything** in your git repo <br>
-- GitHub will reject files larger than 100mb -> if you commit a large file and then remove it, GitHub will still reject it b/c the file is still in the repo history <br>
-- README is a text file that describes your repository/project. This is a great place for a description of the project, documentation, and attributions <br>
-</h3>
+- ### Always pull before pushing <br>
+- ### You can put **anything** in your git repo — so be careful <br>
+- ### GitHub will reject files larger than 100mb — if you commit a large file and then remove it, GitHub will still reject it because the file is still in the repo history <br>
+- ### README is a text file that describes your repository/project. This is a great place for a description of the project, documentation, and attributions <br>
+- ### You can make your repo private on GitHub so no one else can see it  <br>
 
 ---
 # .gitignore
@@ -237,15 +230,44 @@ class: center, inverse
 </p>
 
 ---
+# Common issues and how to fix
+
+.pull-left[
+### The issue
+- You committed a large file (e.g. 500mb CSV) and then pushed it to GitHub 
+- GitHub rejected it because its over the limit of ~100mb
+- You remove it from your repo and commit again. GitHub still rejects because the file is in your branch so you're still uploading it <br>
+
+### The fix
+- Roll back your commits 
+- First use `git reset --soft HEAD~2` to roll back two commits. This won't roll back the files, just the commit (use `--hard` for that)
+- Now remove the large file from the repo (or use .gitignore) then add commit push
+- You can also view your past commits via `git log`
+]
+
+.pull-right[
+### The issue
+- Somehow the remote repo changed and you can't push to GitHub
+
+### The fix
+- `git remote -v` to see where the remote repo lives
+- if this returns something like `git@github-nyu:nyu-stats-club/nyu-stats-club.github.io.git` then its an SSH repo
+- instead if it returns something like `https://github.com/joemarlo/ATUS-time-series.git` then its a HTTPS repo
+- Changing the remote will **likely** fix your issue. Use `git remote set-url origin` followed by your remote's HTTPS link. That link is on your GitHub repo's page: find the green 'Code' button and c/p the link
+]
+
+---
+# Diffs, branches, and merges
+
+
+
+---
 # Additional resources
 
 We didn't talk about:
 - `git merge`
 - `git checkout`
 - `git fetch`
-- `git reset`
-- `get log`
-- `git remote`
 - `git clone`
 - `fork`
 
