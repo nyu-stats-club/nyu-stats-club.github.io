@@ -256,10 +256,6 @@ class: center, inverse
 - Changing the remote will **likely** fix your issue. Use `git remote set-url origin` followed by your remote's HTTPS link. That link is on your GitHub repo's page: find the green 'Code' button and c/p the link
 ]
 
----
-# Diffs, branches, and merges
-
-
 
 ---
 # Additional resources
@@ -269,6 +265,7 @@ We didn't talk about:
 - `git checkout`
 - `git fetch`
 - `git clone`
+- `git diff`
 - `fork`
 
 So here are some great additional resources: 
@@ -277,4 +274,5 @@ So here are some great additional resources:
 - [Git the simple guide](https://rogerdudler.github.io/git-guide/)
 - [15 minute tutorial to learn git](https://try.github.io/)
 - [RStudio Projects](https://support.rstudio.com/hc/en-us/articles/200526207-Using-Projects)
+- [Forking and pull request](https://gist.github.com/Chaser324/ce0505fbed06b947d962)
 
