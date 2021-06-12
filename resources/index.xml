@@ -6,11 +6,7 @@
     <description>Recent content in Resources on NYU Stats Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Feb 2018 12:21:57 -0500</lastBuildDate>
-    
-	<atom:link href="/resources/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 13 Feb 2018 12:21:57 -0500</lastBuildDate><atom:link href="/resources/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Git tutorial</title>
       <link>/resources/git-tutorial/</link>

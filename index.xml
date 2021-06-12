@@ -6,11 +6,7 @@
     <description>Recent content on NYU Stats Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Sep 2020 15:43:03 -0400</lastBuildDate>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 07 Sep 2020 15:43:03 -0400</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Git tutorial</title>
       <link>/resources/git-tutorial/</link>
@@ -126,7 +122,10 @@ console.log(&amp;#39;eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
       <guid>/about/</guid>
       <description>Hello, welcome to the home of the New York Univeristy Statistics Club. We&amp;rsquo;re part of the A3SR program and PRIISM. Feel free to reach out at stats.club@nyu.edu.
 If you&amp;rsquo;re a first year student and have a specific question, feel free to contact whomever&amp;rsquo;s expertise best matches your question.
- 2020 Stats Club Leadership Kenny Mai Kenny is a second year part-time A3SR student. After four years working in IT he came to NYU to jump-start his career as a statistician.</description>
+ 2021 Stats Club Leadership Junhui Yang Junhui is a second year A3SR student.
+Expertise: R, Python, Tableau
+Email
+ 2020 Stats Club Leadership Kenny Mai Kenny is a second year part-time A3SR student.</description>
     </item>
     
     <item>
@@ -158,7 +157,7 @@ However little known the feelings or views of such a man may be on his first ent
 Stretch&amp;rsquo;d in the tents the Grecian leaders lie:
 The immortals slumber&amp;rsquo;d on their thrones above;
 All, but the ever-wakeful eyes of Jove.(76)
-To honour Thetis&amp;rsquo; son he bends his care,
+To honour Thetis&#39; son he bends his care,
 And plunge the Greeks in all the woes of war:
 Then bids an empty phantom rise to sight,
 And thus commands the vision of the night.

@@ -5,10 +5,6 @@
     <link>/calendar/</link>
     <description>Recent content in Calendar on NYU Stats Club</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="/calendar/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="/calendar/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
